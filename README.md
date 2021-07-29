@@ -262,6 +262,16 @@ capitulo 12
 
 5.CONCLUSIONES:
 
+Podemos decir que los circuitos eléctricos son un medio para llevar energía de un lugar a otro y cuando una carga 
+q ha recorrido el circuito completo en su movimiento regresando a su punto inicial, de acuerdo con un principio básico, 
+su energía potencial debería ser igual a la que tenía inicialmente en dicho punto. Sin embargo, es sabido que en 
+cualquier material conductor existen elementos pasivos que se encargan de disminuir la energía potencial de las cargas 
+que se mueven en su entrante
+El generador fundamentalmente realiza una transformación de algún tipo de energía en energía potencial eléctrica y la
+transfiere al circuito al que se encuentra conectado, clasificándose en ocasiones a los generadores atendiendo a la 
+naturaleza de la conversión energética.
+
+
 
 6.BIBLIOGRAFÍA
 
