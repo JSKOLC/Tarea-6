@@ -43,6 +43,110 @@ CAPÍTULO 12:
 
 3.RESOLUCIÓN DE EJERCICIOS:
 
+1. El capacitor de la figura 11-50 está descargado. 
+
+
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor? 
+
+
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado? 
+
+  ![image](https://user-images.githubusercontent.com/85263529/127433699-7217ce48-71f9-4de7-ae8a-4a61b8cf340f.png)
+
+![image](https://user-images.githubusercontent.com/85263529/127433731-7136d5e5-c52a-4148-a32a-6f5fdc243140.png)
+
+
+3. 
+a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?.
+
+   Parece como un cortocircuito en el instante de conmutación.
+   
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?.
+
+   Parece una fuente de voltaje en el instante que se cierra el interruptor. La corriente es negativa ya que es opuesta en dirección a la fleca de referencia de la corriente.
+
+c. ¿A qué se parece un capacitor en estado estable de cd?.
+
+   Un capacitor parece un circuito abierto mientras está en estado estable de cd.
+   
+d. ¿Qué se quiere decir con i(0’’) y con i(0+)?.
+
+Continuidad para el voltaje del capacitor. Si el cierre del interruptor ocurre en algún tiempo diferente de T o S, se cumple una declaración similar.
+
+5. Para un circuito de carga, R=5.6 kΩ y vC (0’’’) = 0 V. Si i(0+) =2.7 mA, ¿cuál es el valor de E?.
+
+![image](https://user-images.githubusercontent.com/85263529/127433944-fe130c8f-5db8-4908-a1f2-3447ac77448d.png)
+
+
+11-2 Ecuaciones de carga del capacitor
+
+7. Repita el problema 6 si R = 500 Ω, C = 25 uF y E = 45 V, pero ahora calcule y grafique valores en t =0+ s, 20, 40, 60, 80 y 100 ms.
+
+
+Ecuación para el voltaje de carga vC.
+
+![image](https://user-images.githubusercontent.com/85263529/127434003-3a468040-7565-484a-bffd-86f95358132b.png)
+
+Ecuación para la corriente de carga iC.
+
+![image](https://user-images.githubusercontent.com/85263529/127434028-e593f23a-486f-42c5-bf80-468d87d3696e.png)
+
+
+Por sustitución directa, calcule los valores en t= 0+ s, 20, 40, 60, 80 y 100 ms
+
+![image](https://user-images.githubusercontent.com/85263529/127434051-5e5ed023-649c-4905-8001-a42ee52431ae.png)
+
+
+9. Repita el problema 8 para el circuito de la figura 11-52.
+
+![image](https://user-images.githubusercontent.com/85263529/127434077-5ded970a-6e74-4a28-a4ba-7cb1052b350c.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/127434088-c0ea4acf-3b45-49a4-8cb8-1492e1fcce37.png)
+
+
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+![image](https://user-images.githubusercontent.com/85263529/127434113-94aff8d9-5706-41c3-91e3-19a57c0d21a5.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/127434149-4e518fae-8cf5-478a-8e90-a8d04d3f9bfb.png)
+
+
+13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t =0 y determine el voltaje y corriente del capacitor en t =0+, 40, 80, 120, 160 y 200 us, use las curvas de la constante de tiempo universal.
+
+![image](https://user-images.githubusercontent.com/85263529/127434183-715c430c-53e6-4106-8948-4ae0ac9d95f9.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/127434195-023724f0-c4a5-4484-899d-98acf3540f7e.png)
+
+
+15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.
+
+![image](https://user-images.githubusercontent.com/85263529/127434220-d5c5e73a-e2c0-4534-abed-21a5ff05a04f.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/127434386-d14ec397-754d-4262-8e10-ec09807051c4.png)
+
+
+17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+
+![image](https://user-images.githubusercontent.com/85263529/127434594-5d235a90-2a95-45fd-9695-d4eff7dfddb9.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/127434619-0c2594ed-0bb2-4563-b9b8-48ecdc4a2957.png)
+
+
+11-3 Capacitores con un voltaje inicial
+
+ 19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿cuál es el corriente justo después de que el interruptor se ha cerrado?
+
+![image](https://user-images.githubusercontent.com/85263529/127434747-573a033c-d944-451b-8d7c-af29a639b7db.png)
+
+![image](https://user-images.githubusercontent.com/85263529/127434926-108b642f-a179-4983-a518-97d6bda56619.png)
+
+
+
 29.11-5 Circuitos más complejos
 
 Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t=0 Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
@@ -89,7 +193,7 @@ de la figura 11-60 después de que se alcanzó el estado estable.
 11-6 Aplicación de temporización RC
 
 37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es
-de 5 V, R  750 k y la alarma es activada en 15 s cuando vC  3.8 V, ¿qué
+de 5 V, R  750 k y la alarma es activada en 15 s cuando vC  3.8 V, ¿qué
 valor tiene C?
 
 ![image](https://user-images.githubusercontent.com/85263529/127432510-576c2e8c-6f5f-45b5-b234-e5d915025bdb.png)
