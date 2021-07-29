@@ -151,6 +151,14 @@ Por sustitución directa, calcule los valores en t= 0+ s, 20, 40, 60, 80 y 100 m
 
 ![image](https://user-images.githubusercontent.com/85263529/127434926-108b642f-a179-4983-a518-97d6bda56619.png)
 
+25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 k se
+conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
+el resistor?
+
+![image](https://user-images.githubusercontent.com/85263529/127440799-9b36ecc1-e114-4c99-a183-fd30aabc9df4.png)
+
+
+
 
 
 29.11-5 Circuitos más complejos
