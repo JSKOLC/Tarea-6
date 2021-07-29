@@ -1,1 +1,34 @@
 # Tarea-6
+
+TAREA 6: FUNDAMENTOS DE CIRCUITOS ELECTRICOS.
+
+ING. DARWIN ALULEMA.
+
+INTEGRANTES:
+
+CRIOLLO GUALOTUÑA KEVIN ORLANDO
+
+SIGCHA MANOSALVAS JOSSELYN SUSANA
+
+TACO LOACHAMIN LIZETH CAROLINA
+
+TEMA: 
+
+1. OBJETIVOS:
+
+
+
+
+2.MARCO TEÓRICO:
+
+3.RESOLUCIÓN DE EJERCICIOS:
+
+4.VIDEO:
+
+5.CONCLUSIONES:
+
+
+6.BIBLIOGRAFÍA
+
+
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
