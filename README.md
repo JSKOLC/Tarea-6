@@ -23,8 +23,14 @@ TEMA:
 
 GENERAL:
 
+Analizar y comprender los capitulos 11 y 12 del libro con el tema carga, descarga del capacitor y circuitos formadores de onda simples
+y asi poder estudiar los circuitos su composicion funcionamiento y realizacion de los mismos aplicando distintos teoremas aprendidos 
+con loss nuevos conocimientos adquiridos.
+
 
 ESPECIFICOS:
+
+-
 
 
 
