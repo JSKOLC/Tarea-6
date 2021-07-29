@@ -245,6 +245,50 @@ subir el voltaje de salida.
 
 capitulo 12
 
+3.- El toroide de la figura 12-42 tiene una sección transversal circular y ϕ=628 μWb. Si r1 = 8 cm y r2 =12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![imagen](https://user-images.githubusercontent.com/85263529/127527802-7267a11c-5e30-47ab-80c5-c8692baa73d5.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127527882-228e8bbb-8bdc-4ef4-b022-7888851a8aa7.png)
+
+12-5 Espacios de aire, desbordamiento y núcleos laminados
+
+5.- Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B =1.45 T, ¿qué valor tiene en webers?
+
+![imagen](https://user-images.githubusercontent.com/85263529/127527996-6bbc82d2-d89f-42ae-9c6e-868496aa6566.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528045-1ba41c2a-93e3-47cf-9b01-dcdf5ce3f1bb.png)
+
+12-6 Elementos en serie y en paralelo
+
+7. – Para la sección del núcleo de hierro de la figura 12-45, si ϕ_1=12 mWb y si ϕ_3=2 mWb ¿cuánto vale B2?
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528174-f4cfb746-93f7-47da-b766-95fb99f53876.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528223-ddd5f731-4cb7-484e-8068-497a4bcafaec.png)
+
+12-8 Intensidad de campo magnético y curvas de magnetización 
+
+9.- Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ϕ si el núcleo es de hierro fundido? ¿Si es de
+acero fundido? ¿Si es de hoja de acero con FA = 0.94?
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528326-d68e94ad-082b-4344-9e8e-52d64ae9d24a.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528373-9c92a57d-a8c2-4faf-88b7-56356e05b915.png)
+
+a)	Según la figura 12-19. Para la fuerza magnetizante H=1 200 Av/m de un núcleo de hierro fundido, el valor de B=0.44 T
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528445-ac396df9-0a13-403c-a828-03538e6892e2.png)
+
+b)	Según la figura 12-19. Para la fuerza magnetizante H=1 200 Av/m de un núcleo de acero fundido, el valor de B=1.23 T
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528529-d7267d55-7678-449b-b1c0-16f65343cf1f.png)
+
+c)	Según la figura 12-19. Para la fuerza magnetizante H=1 200 Av/m de un núcleo de acero fundido, el valor de B=1.43 T
+
+![imagen](https://user-images.githubusercontent.com/85263529/127528631-8ea2d9a5-0bf7-42c1-830b-4f565f5eb678.png)
+
+
 
 
 
