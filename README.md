@@ -370,7 +370,7 @@ Según la figura 12-19. Para la densidad de flujo, B=0.6 T de un núcleo de acer
 
 Según la figura 12-19. Para la fuerza magnetizante H=2 050 Av/m de un núcleo de acero fundido, el valor de B=1.41 T
 
-ϕ=1.41*πx10^(-4)=4.43x〖10〗^(-4) Wb
+![imagen](https://user-images.githubusercontent.com/85263529/127652610-ff384410-fa58-4485-954c-a73f25768f60.png)
 
 12-13 Fuerza debida a un electroimán
 
