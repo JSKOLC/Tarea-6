@@ -288,18 +288,97 @@ c)	Según la figura 12-19. Para la fuerza magnetizante H=1 200 Av/m de un núcle
 
 ![imagen](https://user-images.githubusercontent.com/85263529/127528631-8ea2d9a5-0bf7-42c1-830b-4f565f5eb678.png)
 
+11.- Considere una vez más la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 =7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
 
+![imagen](https://user-images.githubusercontent.com/85263529/127650988-9c46c24c-db86-4d53-b6cc-3c5aed321f1b.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651013-6bc457f8-a13d-4410-8d8d-ae675e9cdea9.png)
 
+13.- Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651109-6187e6b1-fdb2-4935-bafe-e3fb7343ee86.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651152-cbc4bbf3-3c47-47db-9f67-65b36cf385c0.png)
 
+12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI 
 
+15.- Encuentre la corriente I en la figura 12-48 si  ϕ=0.16 mWb.
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651221-f1f19ea2-7ec3-454f-aa2a-abed8190c0fb.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651267-18e886a4-6759-463e-a3ae-09fa44e36caf.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/127651281-c7d47b40-f08c-45ac-a540-daa2c3878f8b.png)
 
+Según la figura 12-19. Para la densidad de flujo, B=0.5 T de un núcleo de acero fundido, el valor de H1=350 Av/m
 
+Según la figura 12-19. Para la densidad de flujo, B=0.5 T de un núcleo de hierro fundido, el valor de H2=1 550 Av/m
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651342-8cc21229-4f9b-4c99-a3b1-3e6d6300ff25.png)
+
+17.- Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para  ϕ=0.128 mWb. No tome en cuenta el desbordamiento. 
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651396-677effcd-37cb-42b2-8fef-9f509e415bf2.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651453-c12f2b00-317d-4aa0-a88d-73901fa93302.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651469-2092f90e-714b-42ce-acb1-384f5e3549c0.png)
+
+Según la figura 12-19. Para la densidad de flujo, B=0.4 T de un núcleo de acero fundido, el valor de H1=300 Av/m
+
+Según la figura 12-19. Para la densidad de flujo, B=0.4 T de un núcleo de hierro fundido, el valor de H2=1 050 Av/m
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651552-c75cb627-2bda-4870-b650-f8bc76c271ae.png)
+
+19.- El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, l_a=0.3 mm , la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651641-345b469a-cc98-46bd-95f4-07cafb54377b.png)
+
+Según la figura 12-19. Para la densidad de flujo, B=0.426 T de un núcleo de hierro fundido, el valor de H1=1 200 Av/m
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651722-b15aa6fa-41a7-4682-b41d-8776f642cb43.png)
+
+21.- Para el circuito de la figura 12-51,  ϕ=30  μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651782-0cae3b96-2fbf-4787-a96b-758fbf836710.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651820-03a67db5-324d-4663-bddc-03ea3b76fae8.png)
+
+Según la figura 12-19. Para la densidad de flujo, B=0.6 T de un núcleo de hierro fundido, el valor de H1=2 700 Av/m
+
+Según la figura 12-19. Para la densidad de flujo, B=0.6 T de un núcleo de acero fundido, el valor de H2=400 Av/m
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651944-82c0b02a-3a65-4364-99c5-3377ddb55b52.png)
+
+23.- Una segunda bobina de 450 vueltas con I2  = 4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
+
+![imagen](https://user-images.githubusercontent.com/85263529/127651995-2172a912-5f85-4601-af75-c68c6a7bb329.png)
+
+12-11 Circuitos magnéticos en serie-paralelo
+
+25.- Si el circuito de la figura 12-53 no tiene espacio y ϕ3=0.2mWb, encuentre I.
+
+![imagen](https://user-images.githubusercontent.com/85263529/127652102-e3bad33b-8b2f-4348-b2df-068100676845.png)
+
+12-12 Circuitos magnéticos en serie: a partir de NI encontrar ϕ
+
+27.- Si NI =  644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, ϕ.
+
+![imagen](https://user-images.githubusercontent.com/85263529/127652171-158530d0-538f-46b7-a605-0ceb68aa598a.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127652204-11088ed5-a4ff-4919-b752-e3a5fa5aa1db.png)
+
+Según la figura 12-19. Para la fuerza magnetizante H=2 050 Av/m de un núcleo de acero fundido, el valor de B=1.41 T
+
+ϕ=1.41*πx10^(-4)=4.43x〖10〗^(-4) Wb
+
+12-13 Fuerza debida a un electroimán
+
+29.- Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)? 
+
+![imagen](https://user-images.githubusercontent.com/85263529/127652336-442cb116-bbde-4032-a168-07c607b990f7.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/127652419-a0767a33-91b4-4c94-9b62-5470b7ae4e06.png)
 
 
 4.VIDEO:
