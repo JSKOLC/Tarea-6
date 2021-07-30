@@ -383,6 +383,8 @@ Según la figura 12-19. Para la fuerza magnetizante H=2 050 Av/m de un núcleo d
 
 4.VIDEO:
 
+https://youtu.be/8jQAJlH72jw
+
 5.CONCLUSIONES:
 
 Podemos decir que los circuitos eléctricos son un medio para llevar energía de un lugar a otro y cuando una carga 
